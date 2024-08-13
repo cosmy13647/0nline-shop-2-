@@ -1,0 +1,50 @@
+p{
+
+font-size: 50px;
+font-weight: 800;
+font-style: normal;
+color: green;
+padding: 20px 10px;
+flex-wrap: wrap;
+line-height: 30px;
+text-align: center;
+
+}
+button{
+cursor: pointer;
+background-color:aqua;
+font-size: 20px;
+padding: 70px;
+font-weight: 600;
+border: 2px solid #ccc;
+border-radius: 10000000000px;
+transition: 0.9;
+}
+
+button:hover {
+
+background-color: #f2f2f2;
+
+}
+body {
+display:wrap;
+flex-wrap: wrap;
+background-color: black;
+text-align: center;
+padding-top: 200px;
+}
+ body .alert {
+background-color: blueviolet;
+font-size: 700px;
+
+}
+.alert{
+background-color: aqua;
+font-size: large;
+}
+
+#sm-banner .banner-box{
+
+
+
+}
